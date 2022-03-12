@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to GofarRnD
+
+### Goals:
+Free open-source bootcamp.
+Incubatator for collaborating on projects and ideas.
 
 You can use the [editor on GitHub](https://github.com/GofarRnD/gofarrnd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
